@@ -29,7 +29,9 @@
 ###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=An0m.An0m&"/>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=An0m.An0m&"/>
+<a href="https://www.google.com" target="_blank">
+    <img align="left" src="https://img.shields.io/static/v1?message=Gists&logo=github&label=&color=595959&logoColor=white&labelColor=&style=default"/>
+</a>
 
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"/>
