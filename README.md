@@ -20,7 +20,7 @@
         <a href="https://www.t.me/An0n1mat10n" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Telegram logo"/>
         </a>
-        <a href="mailto:an0m.official@outlook.com" target="_blank">
+        <a href="mailto:an0m@duck.com" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Mail&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="E-mail me"/>
         </a>
         <a href="https://it.namemc.com/profile/AN0N1MAT10N.1" target="_blank">
