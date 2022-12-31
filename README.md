@@ -8,7 +8,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=An0m" height="150" alt="languages graph"/>
     </a>
     <div>
-        <a href="https://www.youtube.com/channel/UC2wbNaDxZHPiEaK6qmjWkEQ" target="_blank">
+        <a href="https://www.youtube.com/@An0n1mat10n" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube logo"/>
         </a>
         <a href="https://discord.com/users/667804735910182957" target="_blank">
