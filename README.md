@@ -4,8 +4,9 @@
 
 <div align="left">
     <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=true&theme=dracula&locale=en&hide_border=true&username=An0m" height="150" alt="stats graph"/>
+        <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&username=An0m" height="150" alt="stats graph"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&langs_count=5&theme=dracula&hide_border=true&username=An0m" height="150" alt="languages graph"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=An0m&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=150" height="150">
     </a>
     <div>
         <a href="https://an0m.dev/youtube" target="_blank">
